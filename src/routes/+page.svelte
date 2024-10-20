@@ -16,7 +16,7 @@ import Servicos from "$lib/Servicos.svelte";
     <div
       class="flex items-end justify-start w-full h-full lg:px-20 px-5 py-20 bg-gray-900/40"
     >
-      <div class="text-start w-1/2 flex flex-col  space-y-10 z-20">
+      <div class="text-start lg:w-1/2 w-full flex flex-col  space-y-10 z-20">
         <h1 class="text-3xl font-bold text-white lg:text-4xl">
           O que você nunca viu, você verá na <span class="text-green-500 before:content[''] before:w-full before:h-full before:z-20 relative before:absolute  before:border-t-4 before:border-green-500 before:top-10 before:-rotate-3">Oculista Filomena</span>
         </h1>
